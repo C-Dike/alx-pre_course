@@ -1,3 +1,2 @@
-[master 112d9bd] my first commit
- 2 files changed, 7 deletions(-)
- create mode 100644 my first commit
+[master b51aacb] my first commit
+ 1 file changed, 3 insertions(+)
